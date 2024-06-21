@@ -1,5 +1,5 @@
 header {
-    background-color: #000000;
+    background-color: #474747;
     color: #FFFFFF;
 }
 
@@ -27,7 +27,7 @@ header {
 }
 
 body {
-    background-color: rgb(252, 252, 173);
+    background-color: rgb(51, 51, 51);
     color: black;
     font-family: 'Poppins', 'sans-serif';  
 }
@@ -98,7 +98,7 @@ body {
 }
 
 footer {
-    background-color: #000000;
+    background-color: #474747;
     color: #FFFFFF;
     text-align: center;
     padding: 10px;
