@@ -1,0 +1,14 @@
+root {
+    --cor-primaria:rgb(255,0,0);
+}
+
+header {
+    background-color: var(--cor-primaria);
+}
+body {
+    color: var(--cor-primaria);
+}
+h1 {
+    background-color: var(--cor-primaria);
+    color: white;
+}
