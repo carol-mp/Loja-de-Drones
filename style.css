@@ -56,25 +56,25 @@ body {
     text-align: center;
 }
 
-.DroneDji3 {
+.Drone-Dji-3 {
     width: 4%;
     display: inline;
     padding: 30px;
 }
 
-.protoboard {
+.Drone-Dji-mini-4-PRO {
     width: 20%;
     display:inline;
     padding: 120px;
     
 }
 
-.multimetro {
+.Drone-Dji-Mavic-3-Classic {
     width:25%;
     margin-right: 30px;
 }
 
-.capacitor {
+.Drone-Dji-Phantom-4-RTK {
     width: 5%;
     display: inline;
     padding: 30px;
@@ -83,7 +83,7 @@ body {
     
 }
 
-.sensor-LDR {
+.Drone-Dji-Avata-2 {
     width: 10%;
     display: inline;
     padding: 20px;
@@ -91,7 +91,7 @@ body {
 
 }
 
-.LED {
+.Drone-Dji-Matrice-30T {
     width: 20%;
     display: inline;
     padding: 20px;
