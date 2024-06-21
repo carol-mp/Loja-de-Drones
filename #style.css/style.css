@@ -1,14 +1,127 @@
-root {
-    --cor-primaria:rgb(255,0,0);
+header {
+    background-color: #000000;
+    color: #FFFFFF;
 }
 
-header {
-    background-color: var(--cor-primaria);
+.cabecalho {
+    color:white;
+    margin-left:550px;
+    text-align: center;
+    display:flex
 }
-body {
-    color: var(--cor-primaria);
-}
-h1 {
-    background-color: var(--cor-primaria);
+
+.cabecalho-lista-1 {
     color: white;
+    margin-left: 160px; /* alinhamento a esquerda*/
+    padding: 40px; /*espaçamento vertical*/
+    display:inline-block;
+    justify-content: center;
 }
+
+.cabecalho-lista-2 {
+    color: white;
+    margin-left: 160px; /* alinhamento a esquerda*/
+    padding: 40px; /*espaçamento vertical*/
+    display:inline-block;
+    justify-content: center;
+}
+
+body {
+    background-color: rgb(252, 252, 173);
+    color: black;
+    font-family: 'Poppins', 'sans-serif';  
+}
+
+.titulo-2 {
+    color: black;
+    justify-content: center;
+    display: flex;
+}
+
+.paragrafo-1 {
+    text-align: center;
+    justify-content: center;
+
+}
+
+.titulo-3 {
+    color:black;
+    justify-content: center;
+    display: flex;
+}
+
+.paragrafo-2 {
+    justify-content: center;
+    text-align: center;
+}
+
+.arduino {
+    width: 24%;
+    display: inline;
+    padding: 30px;
+}
+
+.protoboard {
+    width: 20%;
+    display:inline;
+    padding: 120px;
+    
+}
+
+.multimetro {
+    width:25%;
+    margin-right: 30px;
+}
+
+.capacitor {
+    width: 5%;
+    display: inline;
+    padding: 30px;
+    margin-left: 60px;
+    margin-right: 40px;
+    
+}
+
+.sensor-LDR {
+    width: 10%;
+    display: inline;
+    padding: 20px;
+    margin-left: 150px;
+
+}
+
+.LED {
+    width: 20%;
+    display: inline;
+    padding: 20px;
+    margin-left: 140px;
+}
+
+footer {
+    background-color: #000000;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 10px;
+}
+
+p {
+    justify-content: center;
+    padding: 20px;
+}
+
+.preço-1{
+    width: 25px;
+    display: inline-block;
+    margin-left: 25px;
+    margin-right: 50px;
+    text-align: center;
+}
+
+.preço-2{
+    width: 25px;
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 80px;
+    text-align: center;
+}
+
