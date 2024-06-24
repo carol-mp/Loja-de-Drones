@@ -113,7 +113,7 @@ p {
 .preço-1{
     width: 25px;
     display: inline-block;
-    margin-left: 25px;
+    margin-left: 50px;
     margin-right: 50px;
     text-align: center;
 }
@@ -121,7 +121,7 @@ p {
 .preço-2{
     width: 25px;
     display: inline-block;
-    margin-left: 20px;
+    margin-left: 50px;
     margin-right: 80px;
     text-align: center;
 }
