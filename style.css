@@ -63,19 +63,19 @@ body {
 }
 
 .Drone-Dji-mini-4-PRO {
-    width: 1%;
+    width: 15%;
     display:inline;
     padding: 120px;
     
 }
 
 .Drone-Dji-Mavic-3-Classic {
-    width:1%;
+    width:15%;
     margin-right: 30px;
 }
 
 .Drone-Dji-Phantom-4-RTK {
-    width: 1%;
+    width: 155%;
     display: inline;
     padding: 30px;
     margin-left: 60px;
@@ -84,7 +84,7 @@ body {
 }
 
 .Drone-Dji-Avata-2 {
-    width: 1%;
+    width: 15%;
     display: inline;
     padding: 20px;
     margin-left: 150px;
@@ -92,7 +92,7 @@ body {
 }
 
 .Drone-FAITDER-E88-Pro {
-    width: 1%;
+    width: 15%;
     display: inline;
     padding: 20px;
     margin-left: 140px;
