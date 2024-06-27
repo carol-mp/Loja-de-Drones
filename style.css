@@ -7,7 +7,8 @@ header {
     color:white;
     margin-left:740px;
     text-align: center;
-    display:flex
+    display:flex;
+    font-family: 'Russo one', 'sans-serif';
 }
 
 .cabecalho-lista-1 {
@@ -41,7 +42,7 @@ body {
 .paragrafo-1 {
     margin-left: 0px;
     justify-content: center;
-    font-family: 'Russo one', 'sans-serif';
+    font-family: 'Roboto Condensed', 'sans-serif';
 
 }
 
