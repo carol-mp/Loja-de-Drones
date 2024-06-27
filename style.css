@@ -5,11 +5,18 @@ header {
 
 .cabecalho {
     color:white;
-    margin: left 100px;
+    margin: left 200px;
     text-align: center;
     display:flex;
     font-family: 'Russo one', 'sans-serif';
 }
+
+.cabecalho-2 {
+    color:white;
+    margin: left 300px;
+    text-align: center;
+    display:flex;
+    font-family: 'Russo one', 'sans-serif';
 
 .cabecalho-lista-1 {
     color: white;
