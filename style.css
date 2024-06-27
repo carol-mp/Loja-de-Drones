@@ -41,7 +41,7 @@ body {
 .paragrafo-1 {
     margin-left: 0px;
     justify-content: center;
-    font-family: 'Roboto Condensed', 'sans-serif';
+    font-family: 'Russo one', 'sans-serif';
 
 }
 
@@ -67,7 +67,7 @@ body {
 .Drone-Dji-mini-4-PRO {
     width: 27%;
     display: inline;
-    padding: 2px;
+    padding: 2                                      px;
     margin-left: 10px;
     
 }
