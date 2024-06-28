@@ -5,7 +5,7 @@ header {
 
 .cabecalho {
     color:white;
-    margin: left 100px;
+    margin: left 140px;
     text-align: center;
     display:flex;
     font-family: 'Russo one', 'sans-serif';
@@ -13,7 +13,7 @@ header {
 
 .cabecalho-2 {
     color:white;
-    margin-left: 100px;
+    margin-left: 130px;
     text-align: center;
     display:flex;
     font-family: 'Russo one', 'sans-serif';
