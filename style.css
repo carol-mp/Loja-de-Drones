@@ -1,5 +1,5 @@
 header {
-    background-color: #00363d;
+    background-color: #2c2c2c;
     color: #FFFFFF;
 }
 
@@ -36,7 +36,7 @@ header {
 }
 
 body {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
     color: black;
     font-family: 'Poppins', 'sans-serif';  
 }
@@ -75,7 +75,7 @@ body {
 }
 
 .Drone-Dji-mini-4-PRO {
-    width: 27%;
+    width:27%;
     display: inline;
     padding: 2 px;
     margin-left: 10px;
