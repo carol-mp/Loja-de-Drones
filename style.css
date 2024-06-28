@@ -72,19 +72,13 @@ body {
     margin-left: 60px;
     margin-right: 40px;
     font-family: 'Bebas Neue', 'sans-serif';
-    font-weight: 400;
-    font-style: normal;
-      
 }
 
 .Drone-Dji-mini-4-PRO {
     width: 27%;
     display: inline;
-    padding: 2px;
+    padding: 2 px;
     margin-left: 10px;
-    font-family: 'Bebas Neue', 'sans-serif';
-    font-weight: 400;
-    font-style: normal;
     
 }
 
@@ -93,9 +87,6 @@ body {
     display: inline;
     padding: 20px;
     margin-left: 90px;
-    font-family: 'Bebas Neue', 'sans-serif';
-    font-weight: 400;
-    font-style: normal;
 }
 
 .Drone-Dji-Phantom-4-RTK {
@@ -104,9 +95,6 @@ body {
     padding: 30px;
     margin-left: 60px;
     margin-right: 40px;
-    font-family: 'Bebas Neue', 'sans-serif';
-    font-weight: 400;
-    font-style: normal;
     
 }
 
@@ -156,6 +144,10 @@ p {
 .Nome-Drone-1{
     display: inline;
     margin-left: 210px;
+        font-family: "Bebas Neue", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      
 }
 
 .Nome-Drone-2{
