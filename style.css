@@ -1,10 +1,10 @@
 header {
     background-color: #303030;
-    color: #000000;
+    color: #ffffff;
 }
 
 .cabecalho {
-    color:white;
+    color:rgb(0, 0, 0);
     margin-left:30px;
     text-align: center;
     display:flex;
@@ -12,7 +12,7 @@ header {
 }
 
 .cabecalho-2 {
-    color:white;
+    color:rgb(0, 0, 0);
     margin-left: 210px;
     text-align: center;
     display:flex;
