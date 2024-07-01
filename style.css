@@ -25,6 +25,7 @@ header {
     padding: 40px; /*espaçamento vertical*/
     display:inline-block;
     justify-content: center;
+    font-family: 'Roboto mono', 'sans-serif';
 }
 
 .cabecalho-lista-2 {
