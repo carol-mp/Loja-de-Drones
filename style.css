@@ -15,7 +15,8 @@ header {
     color:white;
     margin-left: 210px;
     text-align: center;
-    padding: 10px;
+    display:flex;
+    margin-top: 10px;
     font-family: 'Russo one', 'sans-serif';
 }
 
